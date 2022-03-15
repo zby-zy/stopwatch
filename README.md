@@ -1,2 +1,2 @@
-# stopwatch
+# Stopwatch
 This repository is stopwatch.
